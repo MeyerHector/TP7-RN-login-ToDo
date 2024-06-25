@@ -1,0 +1,60 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "titulo": "Comprar alimentos",
+      "descripcion": "Ir al supermercado a comprar verduras y frutas para la semana.",
+      "autor": "Juan Pérez",
+      "fecha": "2023-04-01"
+    },
+    {
+      "id": 2,
+      "titulo": "Estudiar para el examen",
+      "descripcion": "Repasar los temas de matemáticas y física para el examen del viernes.",
+      "autor": "Ana Gómez",
+      "fecha": "2023-04-03"
+    },
+    {
+      "id": 3,
+      "titulo": "Llamar al electricista",
+      "descripcion": "Contactar a un electricista para reparar la falla en la sala.",
+      "autor": "Luis Morales",
+      "fecha": "2023-04-05"
+    },
+    {
+      "id": 4,
+      "titulo": "Planificar vacaciones",
+      "descripcion": "Buscar destinos, hoteles y vuelos para las vacaciones de julio.",
+      "autor": "Carmen Ruiz",
+      "fecha": "2023-04-07"
+    },
+    {
+      "id": 5,
+      "titulo": "Renovar el gimnasio",
+      "descripcion": "Ir al gimnasio para renovar la membresía y programar las clases de fitness.",
+      "autor": "Roberto Díaz",
+      "fecha": "2023-04-09"
+    },
+    {
+      "id": 6,
+      "titulo": "Pagar facturas",
+      "descripcion": "Realizar el pago de las facturas de luz, agua y gas.",
+      "autor": "María López",
+      "fecha": "2023-04-11"
+    },
+    {
+      "id": 7,
+      "titulo": "Preparar presentación",
+      "descripcion": "Elaborar la presentación para el próximo proyecto en el trabajo.",
+      "autor": "Pedro Rodríguez",
+      "fecha": "2023-04-13"
+    },
+    {
+      "id": 8,
+      "titulo": "Hacer ejercicio",
+      "descripcion": "Realizar una rutina de ejercicios en casa.",
+      "autor": "Laura Martínez",
+      "fecha": "2023-04-15"
+    }
+  ]
+}
